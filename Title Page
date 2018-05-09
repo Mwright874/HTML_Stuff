@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Title Trial</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  h1 {
+    font-family=courier;
+    color=blue;
+    }
+  p {
+    font-family=courier;
+    }
+</head>
+<body style="background-color:red">
+<h1>Opening Night!</h1>
+<p>Thanks for coming to see our show!</p>
+<p>Sad to tell you, we've got to go!</p>
+</body>
+</html>
